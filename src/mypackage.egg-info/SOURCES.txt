@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/mypackage/__init__.py
+src/mypackage/first_module.py
+src/mypackage/second_module.py
+src/mypackage.egg-info/PKG-INFO
+src/mypackage.egg-info/SOURCES.txt
+src/mypackage.egg-info/dependency_links.txt
+src/mypackage.egg-info/top_level.txt
+src/mypackage/test/__init__.py
+src/mypackage/test/test_main.py

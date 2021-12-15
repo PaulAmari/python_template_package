@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.0.dev1
+Summary: My package description
+Home-page: UNKNOWN
+Author: Paul Amari
+Author-email: amari.paul@protonmail.com
+License: MIT
+Keywords: tutorial,training
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Example package
+
+This is a simple example package for learning purpose.
+./docs/                 documentation
+./scripts/              top-level scripts
+./src/mypackage/        the main package with the source code
+./src/mypackage/test    unit tests
+
